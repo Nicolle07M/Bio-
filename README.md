@@ -1,2 +1,1 @@
-# Bio-
-xd
+Soy una programadora de software chevere
